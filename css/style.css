@@ -58,3 +58,15 @@ li{
     width: 15px;
     height: 15px;
 }
+
+.etichetta{
+    /* background-color: green; */
+    padding: 5px;
+    margin: 5px;
+    border-radius: 10px;
+    font-size: 11px;
+    color: white;
+}
+.editorial{
+    background-color: rgb(0, 132, 255);
+}
