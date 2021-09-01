@@ -6,7 +6,7 @@
 
 body{
     background-color: lightgray;
-    font-family:  'Mukta', sans-serif;
+    font-family: 'Merriweather', serif;
 }
 
 header{
@@ -38,8 +38,12 @@ section{
     padding: 10px 50px 10px 50px;
 }
 
+li{
+    margin: 10px;
+}
+
 .container1{
-    margin: 40px 0 40px 0;
+    padding: 20px 0 20px 0;
 }
 
 .bottoni{
@@ -48,4 +52,9 @@ section{
 
 .logo_img{
     vertical-align: middle;
+}
+
+.marks{
+    width: 15px;
+    height: 15px;
 }
