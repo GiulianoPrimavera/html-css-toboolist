@@ -6,15 +6,22 @@
 
 body{
     background-color: lightgray;
+    font-family:  'Mukta', sans-serif;
+}
+
+header{
+    background-color: white;
 }
 
 main{
-    background-color: white;;
+    background-color: white;
+    width: 60%;
+    margin: 40px auto;
+    border-radius: 4px;
 }
 
 h1{
     display: inline-block;
-    font-family:  'Mukta', sans-serif;
     font-size: 60px;
     vertical-align: middle;
 }
@@ -22,9 +29,23 @@ h1{
 nav{
     border-bottom: 1px solid gray;
 }
-.logo{
-    background-color: white;
+
+ul{
+    list-style: none;
 }
+
+section{
+    padding: 10px 50px 10px 50px;
+}
+
+.container1{
+    margin: 40px 0 40px 0;
+}
+
+.bottoni{
+    padding: 10px 50px 10px 50px;
+}
+
 .logo_img{
     vertical-align: middle;
 }
