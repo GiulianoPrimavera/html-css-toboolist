@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: lightgray;
+}
+
+main{
+    background-color: white;;
+}
+
+h1{
+    display: inline-block;
+    font-family:  'Mukta', sans-serif;
+    font-size: 60px;
+    vertical-align: middle;
+}
+
+nav{
+    border-bottom: 1px solid gray;
+}
+.logo{
+    background-color: white;
+}
+.logo_img{
+    vertical-align: middle;
+}
