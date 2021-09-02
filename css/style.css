@@ -42,11 +42,14 @@ li{
     margin: 10px;
 }
 
+h3{
+    font-weight: bold;
+}
 /* bottoni */
 button{
     border: none;
     font-family: 'Mukta', serif;
-    padding: 5px;
+    padding: 5px 20px 5px 20px;
     border-radius: 5px;
 }
 .button1{
@@ -79,7 +82,7 @@ button{
 }
 
 .etichetta{
-    padding: 5px;
+    padding: 5px 15px 5px;
     margin: 5px;
     border-radius: 10px;
     font-size: 11px;
